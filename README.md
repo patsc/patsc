@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Patrick and I am working as a senior scientist at ETH Zurich.
+
+In my job, I am working on different, technology related aspects of cyber security. During my PhD I have worked on formal modelling of security protocols and the formal analysis of their security properties. After my PhD I have spent quite some time in industry and have worked in various security related positions (software engineer, security architect, etc.) before coming back to academia.
+
+I am interested in all kind of information security related technical challenges.
+
 <!--
 **patsc/patsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
